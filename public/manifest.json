@@ -1,0 +1,10 @@
+{
+  "short_name": "Do Not Distrub System",
+  "name": "Do Not Distrub System",
+  "icons": [
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
